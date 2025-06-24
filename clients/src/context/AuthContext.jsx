@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
 // API Endpoints
-const API_BASE_URL = 'https://9247-154-159-31-254.ngrok-free.app';
+const API_BASE_URL = 'https://a62a-154-159-31-254.ngrok-free.app';
 const LOGIN_URL = `${API_BASE_URL}/api/login`;
 const REGISTER_URL = `${API_BASE_URL}/api/register`;
 
